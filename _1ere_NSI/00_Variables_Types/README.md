@@ -10,6 +10,6 @@
   - list : [ ? , ? ] -> tableau de valeurs mutables
   - str : ' ' ou " " -> à noter qu'une chaîne de caratères est un tableau de caratères NON mutable (non modifiable)
   - tuple : ( ? , ? ) -> tableau de données non mutables
-  - dict : \{ key<sub>i</sub>:_value_ , key</sub>j</sub>:_value_ \} -> tableau référencé avec un couple Clé : Valeur
+  - dict : \{ key <sub>i</sub>:_value_ , key <sub>j</sub>:_value_ \} -> tableau référencé avec un couple Clé : Valeur
   
 _Note : il existe d'autres types de données qui ne sont pas abordés ici ..._
